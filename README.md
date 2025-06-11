@@ -1,99 +1,73 @@
-# 👨🏻‍💻 Robson Calmunges
+<h1 align="center">👨‍💻 Robson Calmunges</h1>
+<p align="center"><b>Desenvolvedor Full Stack</b></p>
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding" />
+</p>
 
-Me chamo **Robson Calmunges Miranda**, tenho **37 anos** e sou natural da **Bahia**. Concluí o curso Técnico em Desenvolvimento de Sistemas no **IFSUL de Minas** e atualmente estou cursando **Engenharia da Computação pela UNIAMÉRICA**. Sou apaixonado por tecnologia e estou começando a compartilhar meus conhecimentos e projetos aqui pelo GitHub.
-
-<p align="left">
-    <a href="https://github.com/rcalmunges?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rcalmunges?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/rcalmunges?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rcalmunges?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+Sou Robson Calmunges Miranda, 37 anos, natural da Bahia. <br>
+Sou Técnico em Desenvolvimento de Sistemas pelo IFSUL de Minas e graduando em Engenharia da Computação pela UNIAMÉRICA. <br>
+Apaixonado por tecnologia, busco constantemente evoluir meus conhecimentos em Front-End e Back-End.
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Conecte-se comigo
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind"
-    title="Tailwind" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="left">
+  <a href="https://github.com/rcalmunges" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rcalmunges-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/robsoncalmunges" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-3000%2B seguidores-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/robsoncalmunges" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Robson%20Calmunges-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/robsoncalmunges" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Robson%20Calmunges-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/robson-calmunges-miranda" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Robson%20Calmunges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📊 Estatísticas
+### 🛠️ Tecnologias e Ferramentas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rcalmunges&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+</p>
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalmunges&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcalmunges&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalmunges&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 💡 Frase do dia
+> “Não é a linguagem de programação que define o programador, mas sim sua lógica.” – **Ramston Fenix**
+
+---
+
+### ⚡ Projetos em destaque em breve...
+
+_Fique ligado! Em breve estarei compartilhando sistemas completos, projetos em React, interfaces responsivas e muito mais!_
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C8C8&height=150&section=footer" />
 </p>
