@@ -17,19 +17,19 @@ Apaixonado por tecnologia, busco constantemente evoluir meus conhecimentos em Fr
 
 <p align="left">
   <a href="https://github.com/rcalmunges" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rcalmunges-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/robsoncalmunges" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-3000%2B seguidores-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/robsoncalmunges" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Robson%20Calmunges-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img alt="Facebook" src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://discord.gg/robsoncalmunges" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-Robson%20Calmunges-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img alt="Discord" src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/robson-calmunges-miranda" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Robson%20Calmunges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
