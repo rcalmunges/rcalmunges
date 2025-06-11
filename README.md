@@ -65,8 +65,8 @@ Me chamo Robson Calmunges Miranda, tenho 37 anos e sou natural da Bahia. ConcluÃ
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="TailWind"
+    title="TailWind" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
