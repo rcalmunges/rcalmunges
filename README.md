@@ -33,13 +33,13 @@
 
 <!-- Frase -->
 <h3 align="center">💡 Frase do dia</h3>
-<blockquote>“Bendito é o homem que confia no SENHOR e cuja a esperança é o SENHOR. ” – <strong>Jeremias 17:7 </strong></blockquote>
+<blockquote align="center">“Bendito é o homem que confia no SENHOR e cuja a esperança é o SENHOR. ” – <strong>Jeremias 17:7 </strong></blockquote>
 
 <hr/>
 
 <!-- Projetos -->
 <h3 align="center">⚡ Projetos em destaque em breve...</h3>
-<i>Fique ligado! Em breve estarei compartilhando sistemas completos, projetos em React, interfaces responsivas e muito mais!</i>
+<i align="center">Fique ligado! Em breve estarei compartilhando sistemas completos, projetos em React, interfaces responsivas e muito mais!</i>
 
 <hr/>
 
