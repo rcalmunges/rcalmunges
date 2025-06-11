@@ -5,18 +5,18 @@
 Me chamo **Robson Calmunges Miranda**, tenho **37 anos** e sou natural da **Bahia**. Concluí o curso Técnico em Desenvolvimento de Sistemas no **IFSUL de Minas** e atualmente estou cursando **Engenharia da Computação pela UNIAMÉRICA**. Sou apaixonado por tecnologia e estou começando a compartilhar meus conhecimentos e projetos aqui pelo GitHub.
 
 <p align="left">
-    <a href="https://github.com/RobsonCalmunges?tab=repositories&sort=stargazers">
+    <a href="https://github.com/rcalmunges?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RobsonCalmunges?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/rcalmunges?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/RobsonCalmunges?tab=followers">
+    <a href="https://github.com/rcalmunges?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RobsonCalmunges?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rcalmunges?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -87,13 +87,13 @@ Me chamo **Robson Calmunges Miranda**, tenho **37 anos** e sou natural da **Bahi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RobsonCalmunges&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rcalmunges&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonCalmunges&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalmunges&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
