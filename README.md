@@ -33,7 +33,7 @@
 
 <!-- Frase -->
 <h3>💡 Frase do dia</h3>
-<blockquote>“Não é a linguagem de programação que define o programador, mas sim sua lógica.” – <strong>Ramston Fenix</strong></blockquote>
+<blockquote>“Bendito é o homem que confia no SENHOR e cuja a esperança é o SENHOR. ” – <strong>Jeremias 17:7 </strong></blockquote>
 
 <hr/>
 
