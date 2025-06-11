@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Robson+Calmunges!" alt="Typing SVG" />
 </h1>
 
-<p align="center">Apaixonado por tecnologia, busco constantemente evoluir meus conhecimentos em Front-End e Back-End.</p>
+<pMe chamo **Robson Calmunges Miranda**, tenho **37 anos** e sou natural da **Bahia**. Concluí o curso Técnico em Desenvolvimento de Sistemas no **IFSUL de Minas** e atualmente estou cursando **Engenharia da Computação pela UNIAMÉRICA**. Sou apaixonado por tecnologia e estou começando a compartilhar meus conhecimentos e projetos aqui pelo GitHub.
+</p>
 
 <hr/>
 
