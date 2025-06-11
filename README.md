@@ -33,8 +33,8 @@
 <hr/>
 
 <!-- Frase -->
-<h3 align="center">💡 Frase do dia</h3>
-<blockquote align="center">“Bendito é o homem que confia no SENHOR e cuja a esperança é o SENHOR. ” – <strong>Jeremias 17:7 </strong></blockquote>
+<h3 align="center">💡 Minha Frase Preferida</h3>
+<blockquote align="center">“Bendito é o homem que confia no <strong>SENHOR</strong> e cuja a esperança é o <strong>SENHOR</strong>. ” – <strong>Jeremias 17:7 </strong></blockquote>
 
 <hr/>
 
