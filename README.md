@@ -45,7 +45,7 @@
 <hr/>
 
 <!-- GitHub Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rcalmunges&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalmunges&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
